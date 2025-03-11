@@ -3,6 +3,7 @@
 ## Check out the video below for Day10 👇
 
 [![Day10/16 - Azure DevOps CICD Pipeline on Azure Container Instances](https://img.youtube.com/vi/6DJfhwG3DGQ/sddefault.jpg)](https://youtu.be/6DJfhwG3DGQ)
+## NB- Ypu need to have created Resource group with the name of "day10-demo" and Container registery with the name of "day10demos".
 
 
 ## Understanding Virtual machine V/s Containers.
