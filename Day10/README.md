@@ -131,5 +131,6 @@ stages:
           --registry-login-server $(containerRegistry) \
           --registry-username day10demo  \
           --registry-password XXXX \
+          --os-type Linux --cpu 1 --memory 1
           --dns-name-label aci-demo-piyush101
 ```
